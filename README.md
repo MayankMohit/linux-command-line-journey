@@ -56,4 +56,18 @@ If you are on **Windows 10 or 11**, you can install WSL like this:
 
 ---
 
+## Contributing
+Contributions are welcome!  
+Please read the [CONTRIBUTING.md](CONTRIBUTING.md) file for details on how to propose changes.
+
+---
+
+## License
+This project is licensed under the [MIT License](LICENSE) for code.  
+Written content and documentation are licensed under the [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/).
+
+You are free to use, share, and adapt the material with attribution.
+
+---
+
 *Start Date:* 10 August 2025
