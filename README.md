@@ -61,7 +61,7 @@ If you are on **Windows 10 or 11**, you can install WSL like this:
 3. Try out the commands and exercises in your own terminal.
 4. Read the daily logs for tips and progress tracking.
 
-> [![GitBook](https://img.shields.io/static/v1?message=Documented%20on%20GitBook\&logo=gitbook\&logoColor=ffffff\&label=%20\&labelColor=5c5c5c\&color=3F89A1)](https://mayank-2.gitbook.io/linux/)
+> [![GitBook](https://img.shields.io/static/v1?message=Documented%20on%20GitBook\&logo=gitbook\&logoColor=ffffff\&label=%20\&labelColor=5c5c5c\&color=3F89A1)](https://linux-docs.bymayank.com)
 
 ***
 
