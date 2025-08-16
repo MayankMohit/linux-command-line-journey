@@ -1,84 +1,86 @@
-# README
+# Linux Command Line Journey
 
-## Linux Command Line Journey
+Welcome to my **hands-on journey through Linux**! 🐧
+This repo documents my daily progress as I study ***The Linux Command Line* by William Shotts**, mixing book notes with my own experiments, tweaks, and learnings.
 
-This repository documents my day-by-day progress as I work through _The Linux Command Line_ by William Shotts.\
-Each chapter includes detailed notes, practical examples, and scripts you can run in your own terminal.
+Every chapter → practical notes, examples you can run, and exercises I’ve completed.
+Every day → a **daily log** of what I learned, mistakes I made, and commands I practiced.
 
-***
+---
 
-### My Environment
+## 💻 My Environment
 
-I am learning Linux commands inside **WSL (Windows Subsystem for Linux)** on Windows 11.\
-This means all commands here are tested on Ubuntu running inside WSL.
+I’m learning inside **WSL (Windows Subsystem for Linux)** on Windows 11, running **Ubuntu**.
+All commands are tested here before being added.
 
-#### Installing WSL
+### Installing WSL
 
-If you are on **Windows 10 or 11**, you can install WSL like this:
+If you’re on Windows 10/11, setting up WSL is simple:
 
-1. Open **PowerShell** as Administrator.
-2.  Run:
+1. Open **PowerShell as Administrator**.
+2. Run:
 
-    ```powershell
-    wsl --install
-    ```
-3. Restart your PC when prompted.
-4.  Open a terminal and run:
+   ```powershell
+   wsl --install
+   ```
+3. Restart when prompted.
+4. Choose and install Ubuntu:
 
-    ```powershell
-    wsl --list --online
-    wsl --install -d Ubuntu
-    ```
-5. Once Ubuntu is installed, set up your username and password.
-6. Launch Ubuntu from your Start menu and you are ready.
+   ```powershell
+   wsl --list --online
+   wsl --install -d Ubuntu
+   ```
+5. Set your Linux username & password.
+6. Launch Ubuntu from the Start Menu → you’re ready! 🎉
 
-> **Note:** If you are on Windows 10 older than build 2004, follow Microsoft's WSL docs:\
-> https://learn.microsoft.com/windows/wsl/install
+> ℹ️ On older Windows 10 (pre-2004), follow Microsoft’s official docs:
+> [https://learn.microsoft.com/windows/wsl/install](https://learn.microsoft.com/windows/wsl/install)
 
-***
+---
 
-### Goals
+## 🎯 Goals
 
-* Learn Linux deeply by doing.
-* Share clear, reproducible examples.
-* Build a professional knowledge log.
+* Learn Linux **by actually using it**, not just reading.
+* Keep my notes **fun, simple, and practical**.
+* Build a **public knowledge base** I can share with others.
+* Track progress day by day for consistency.
 
-***
+---
 
-### Structure
+## 📂 Repo Structure
 
-* `chapters/` — Chapter-based notes and commands.
-* `examples/` — Supporting scripts and files.
-* `daily-log/` — Personal "What I learned today" entries.
-* `scripts/` — General helper scripts.
+* `chapters/` → Chapter-based notes (summaries + examples).
+* `examples/` → Scripts & extra files for practice.
+* `daily-log/` → My personal learning diary.
+* `scripts/` → General-purpose helper scripts.
 
-***
+---
 
-### How to Follow Along
+## 🚀 How to Use This Repo
 
-1. Set up WSL or any Linux environment.
-2. Pick a chapter file from `chapters/`.
-3. Try out the commands and exercises in your own terminal.
-4. Read the daily logs for tips and progress tracking.
+1. Set up your Linux environment (WSL, VM, or native).
+2. Open a chapter in `chapters/` and try the commands.
+3. Check `daily-log/` entries to see real-world progress & tips.
+4. Experiment on your own terminal — break things, fix them, learn.
 
-> [![GitBook](https://img.shields.io/static/v1?message=Documented%20on%20GitBook\&logo=gitbook\&logoColor=ffffff\&label=%20\&labelColor=5c5c5c\&color=3F89A1)](https://linux-docs.bymayank.com)
+👉 Documentation is mirrored here:
+[![GitBook](https://img.shields.io/static/v1?message=View%20on%20GitBook\&logo=gitbook\&logoColor=ffffff\&label=%20\&labelColor=5c5c5c\&color=3F89A1)](https://linux-docs.bymayank.com)
 
-***
+---
 
-### Contributing
+## 🤝 Contributing
 
-Contributions are welcome!\
-Please read the [CONTRIBUTING.md](CONTRIBUTING.md) file for details on how to propose changes.
+Contributions are welcome!
+[Check out](CONTRIBUTING.md) for details on suggesting improvements or adding exercises.
 
-***
+---
 
-### License
+## 📜 License
 
-This project is licensed under the [MIT License](LICENSE/) for code.\
-Written content and documentation are licensed under the [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/).
+* **Code** → [MIT License](LICENSE/)
 
-You are free to use, share, and adapt the material with attribution.
+You’re free to use, adapt, and share with attribution.
 
-***
+---
 
-_Start Date:_ 10 August 2025
+📅 *Started this journey on:* **10 August 2025**
