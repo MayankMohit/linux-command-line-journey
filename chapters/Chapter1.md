@@ -1,7 +1,7 @@
 # Chapter 1 – What is the Shell?
 
 Welcome to the Linux world!  
-Before we start typing commands like a pro, we need to understand **what’s going on behind the scenes** when we use Linux.
+Before we start typing commands like a pro, we need to understand **what’s going on behind the scenes** when we use Linux. **Don't worry I will make it fun.**
 
 ---
 
@@ -107,5 +107,6 @@ PS1="> "
 
 ---
 
-*Date Learned: 10 August 2025*  
-*Source: The Linux Command Line, Chapter 1*
+**Date Learned:** 11 August 2025
+
+**Source:** _The Linux Command Line_, Chapter 1

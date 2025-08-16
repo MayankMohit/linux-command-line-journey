@@ -141,5 +141,6 @@ cd /
 
 ---
 
-*Date Learned: 13 August 2025*  
-*Source: The Linux Command Line, Chapter 2*
+**Date Learned:** 13 August 2025
+
+**Source:** _The Linux Command Line_, Chapter 2
