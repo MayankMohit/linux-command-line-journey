@@ -5,4 +5,5 @@
 - [Chapter 2](chapters/Chapter2.md)
 - [Chapter 3](chapters/Chapter3.md)
 - [Chapter 4](chapters/Chapter4.md)
+- [Chapter 5](chapters/Chapter5.md)
 - [Contributing to Linux Command Line Journey](CONTRIBUTING.md)
