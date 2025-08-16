@@ -126,7 +126,6 @@ tail file2.txt         # Show last 10 lines
 
 ---
 
-**Next Chapter Preview:** Learn about **permissions, ownership, and basic file security** in Linux.
 
 **Date Learned:** 15 August 2025
 
