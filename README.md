@@ -6,6 +6,8 @@ This repo documents my daily progress as I study ***The Linux Command Line* by W
 Every chapter → practical notes, examples you can run, and exercises I’ve completed.
 Every day → a **daily log** of what I learned, mistakes I made, and commands I practiced.
 
+📖 You can download the EBook here: [The Linux Command Line](http://linuxcommand.org/tlcl.php)
+
 ---
 
 ## 💻 My Environment
